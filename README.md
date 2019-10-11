@@ -2,7 +2,7 @@
 
 This Arduino library was forked from https://github.com/4-20ma/ModbusMaster
 
-As is, this great library does *NOT* comply the MODBUS specification, and cannot without editing deep in the code : the T1.5 and T3.5 delays/timeouts are not implemented.
+As is, this great library does *NOT* comply with the MODBUS specification, and cannot without editing deep in the code : the T1.5 and T3.5 delays/timeouts are not implemented.
 
 mods :
 
