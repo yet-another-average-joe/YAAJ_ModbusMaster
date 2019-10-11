@@ -19,7 +19,7 @@
 
 	STM32 can send up to 4Mbps (not tested as slave)
 
-	ModbusMaster.h - Arduino library for communicating with Modbus slaves
+	ModbusMaster.cpp - Arduino library for communicating with Modbus slaves
 	over RS232/485 (via RTU protocol).
 
 	Library:: ModbusMaster
